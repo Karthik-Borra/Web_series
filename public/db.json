@@ -1,0 +1,47 @@
+[
+    {
+        "web_series_name": "Game Of Thrones",
+        "poster": "https://wallpapers.com/images/hd/hd-fire-dragon-of-game-of-thrones-bv7iybw0543lsemp.webp",
+        "number_of_seasons_and_episodes": "8 season - 73 episodes",
+        "aired_date": "April 17,2011",
+        "genre": "Drama",
+        "rating": "9.5/10",
+        "reference_url": "https://www.max.com/shows/game-of-thrones/4f6b4985-2dc9-4ab6-ac79-d60f0860b0ac"
+    },
+    {
+        "web_series_name": "Stranger Things",
+        "poster": "https://wallpapers.com/images/hd/stranger-things-2-desktop-poster-dkttxahzpl44tbsa.webp",
+        "number_of_seasons_and_episodes": "4 season - 40 episodes",
+        "aired_date": "July 15,2016",
+        "genre": "Science fiction, horror, fantasy.",
+        "rating": "8.1/10",
+        "reference_url": "https://www.netflix.com/title/80057281?source=35"
+    },
+    {
+        "web_series_name": "The Mandalorian",
+        "poster": "https://wallpapers.com/images/hd/the-mandalorian-hd-wallpaper-kpn5b74sezeonwo3.webp",
+        "number_of_seasons_and_episodes": "2 season - 10 episodes",
+        "aired_date": "November 12,2019",
+        "genre": "Space Western, science fiction.",
+        "rating": "8.1/10",
+        "reference_url": "https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD"
+    },
+    {
+        "web_series_name": "Black Mirror",
+        "poster": "https://wallpapers.com/images/high/black-mirror-poster-gbqux8n5pndwjdrn.webp",
+        "number_of_seasons_and_episodes": "5 season - 50 episodes",
+        "aired_date": "December 4,2011",
+        "genre": "Anthology, science fiction, drama.",
+        "rating": "8.1/10",
+        "reference_url": "https://www.netflix.com/title/70264888"
+    },
+    {
+        "web_series_name": "Kaala Paani",
+        "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN171jnG78HcDYeum_79JKOKi9EjPD_ozZcQ0x9dB1Ajc3_Ls3",
+        "number_of_seasons_and_episodes": "1 season - 7 episodes",
+        "aired_date": "2023",
+        "genre": "Thriller, Survival, Drama, Mystery",
+        "rating": "8.1/10",
+        "reference_url": "https://www.netflix.com/in/title/81314368?source=35"
+    }
+]
